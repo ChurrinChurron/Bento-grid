@@ -8,8 +8,7 @@ This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: https://bento-grid-frontend-mentor.netlify.app/
 
 ### Built with
 
